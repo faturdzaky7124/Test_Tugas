@@ -1,0 +1,11 @@
+<?php
+// Menampilkan data diri
+echo "Nama: Mochammad Faturrahman Dzaky
+      NIM: E41220669"
+//Tugas Penjumlahan sederhana
+$a =7;
+$b = 10;
+$hasil = $a + $b;
+
+echo "hasil penjumlahan $a + $b = $hasil";
+?>
